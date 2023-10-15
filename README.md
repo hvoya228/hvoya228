@@ -1,13 +1,14 @@
 ## Cover letter
 
-👋, I’m A 3rd year student of Chernivtsi National University, in the field of computer science, namely Intelectual 
+👋 I’m A 3rd year student of Chernivtsi National University, in the field of computer science, namely Intelectual 
 data analisys and information systems. Qualified in **game development, web development, AI development, graphic design, sound design, data analysis, database designing, computer networks**. 
 Melancholic creative, interested in work like in hobby, capable of leading a project
 from start to release, as a fullstack.
   
-``I am looking for a junior position as a Unity developer``, in company with creative ideas that will be implemented in projects by me!
+👀 ``I am looking for a junior position as a Unity developer``,  
+in company with creative ideas that will be implemented in projects by me!
 
-How I started to develop games?
+❔ How I started to develop games?
 So, my younger sisters was learning a multiplication table. It was so hard and not interesting for them. I decided to make a game with interactive and pretty UI, that will show a problem and possible answers. 
 As a result, they was playing it during all summer and learned a multuplicaton table!
 I`m learning game development yet and want to help other people to solve diferent problems with my games and apps.  
@@ -52,14 +53,14 @@ And many uncertificated courses...
 - Game sounds: *FL studio*
 - Version control: *GIT, GitHub, Fork*
   
-**Here you can know more about my Unity and other specicfic skills:**  
+:warning:**Here you can know more about my Unity and other specicfic skills**:warning:  
 ``link``  
 
 Languages: Ukrainian, English (graduated courses with B2 level)  
 
 ## Hobbies  
 
-Gamer, beatmaker, designer, basketballer, hiker
+🕹️Gamer, 🎵beatmaker, 🎨designer, 🏀basketballer, ⛰️hiker
 
 
 
