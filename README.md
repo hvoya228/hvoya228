@@ -1,7 +1,7 @@
 ## Cover letter
 
 👋 I’m A 3rd year student of Chernivtsi National University, in the field of computer science, namely Intelectual 
-data analisys and information systems. Qualified in **game development, web development, AI development, graphic design, sound design, data analysis, database designing, computer networks**. 
+data analisys and information systems. Qualified in **game development, web development, AI development, graphic design, sound design, data analysis, database designing and computer networks**. 
 Melancholic creative, interested in work like in hobby, capable of leading a project
 from start to release, as a fullstack.
   
