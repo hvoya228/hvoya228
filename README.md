@@ -47,7 +47,7 @@ And many uncertificated courses...
 - Game development: *Unity*
 - Front end: *React, Angular, Three.js, Blazor, WPF*  
 - Back end: *EntityFramework, GraphQL, Dapper, ASP.NET Core, ASP.NET Core Identity*  
-- Databases: *Microsoft SQL server, SQLite, MongoDB, PostgreSQL*  
+- Databases: *Microsoft SQL server, SQLite, MongoDB, PostgreSQL, MySQL*  
 - Data analysis: *Jupyter*
 - Game graphics: *Adobe Illustartor, MagicalVoxel, Aseprite*
 - Game sounds: *FL studio*
