@@ -35,23 +35,17 @@ Telegram: https://t.me/hvoya228
    
 And many uncertificated courses...  
 
-## Work experience   
-
-- Working on freelance as a graphic designer (**2018 - 2020**)
-- Working on my own and team educational projects (**2021 - today**)
-
 ## General overview of technologies experience
 
-- Programming languages: *C#, C++, C, Java, JavaScript, TypeScript, Python*  
+- Programming languages: *C#, C++, C, Java, JavaScript, Python*  
 - Markup languages: *HTML, CSS*  
 - Game development: *Unity*
-- Front end: *React, Angular, Three.js, Blazor, WPF*  
+- Front end: *Three.js, Blazor, WPF*  
 - Back end: *EntityFramework, GraphQL, Dapper, ASP.NET Core, ASP.NET Core Identity*  
 - Databases: *Microsoft SQL server, SQLite, MongoDB, PostgreSQL, MySQL*  
-- Data analysis: *Jupyter*
-- Game graphics: *Adobe Illustartor, MagicalVoxel, Aseprite*
-- Game sounds: *FL studio*
-- Version control: *GIT, GitHub, Fork*
+- Game graphics: *Adobe Illustartor, MagicalVoxel, Aseprite*  
+- Game sounds: *FL studio*  
+- Version control: *GIT, GitHub, Fork*  
   
 :warning:**Here you can know more about my Unity and other specicfic skills**:warning:  
 ``link``  
@@ -60,7 +54,7 @@ Languages: Ukrainian, English (graduated courses with B2 level)
 
 ## Hobbies  
 
-🕹️Gamer, 🎵beatmaker, 🎨designer, 🏀basketballer, ⛰️hiker
+🎵beatmaker, 🎨designer, 🏀basketballer, ⛰️hiker
 
 
 
