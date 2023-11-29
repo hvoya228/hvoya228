@@ -39,7 +39,7 @@ And many uncertificated courses...
 ## Work experience  
 Worked as a freelance graphic designer at school.  
 I am currently working on my projects, you can get acquainted with them here:  
-:warning:**Here you can know more about my Unity and other specicfic skills**:warning:
+:warning: https://github.com/hvoya228/github-projects-navigation/tree/main :warning:
   
 ## General overview of technologies experience
 
