@@ -1,17 +1,18 @@
 ## Cover letter
 
 👋 I’m A 3rd year student of Chernivtsi National University, in the field of computer science, namely Intelectual 
-data analisys and information systems. Qualified in **game development, web development, AI development, graphic design, sound design, data analysis, database designing and computer networks**. 
+data analisys and information systems. Qualified in **game development, web development, database designing, AI development, data analysis, graphic design, sound design and computer networks**. 
 Melancholic creative, interested in work like in hobby, capable of leading a project
 from start to release, as a fullstack.
   
 👀 ``I am looking for a junior position as a Unity developer``,  
 in company with creative ideas that will be implemented in projects by me!
 
-❔ How I started to develop games?
+❔ How I became interested in other programming fields?  
 So, my younger sisters was learning a multiplication table. It was so hard and not interesting for them. I decided to make a game with interactive and pretty UI, that will show a problem and possible answers. 
 As a result, they was playing it during all summer and learned a multuplicaton table!
 I`m learning game development yet and want to help other people to solve diferent problems with my games and apps.  
+Also, my programming interest in various fields starts from childhood.
 
 ## Contact details  
 ```c#
@@ -34,27 +35,28 @@ Telegram: https://t.me/hvoya228
 - Computer networks certificated courses (graduated on **05.06.2023**)
    
 And many uncertificated courses...  
-
+  
+## Work experience  
+Worked as a freelance graphic designer at school.  
+I am currently working on my projects, you can get acquainted with them here:  
+:warning:**Here you can know more about my Unity and other specicfic skills**:warning:
+  
 ## General overview of technologies experience
 
-- Programming languages: *C#, C++, C, Java, JavaScript, Python*  
-- Markup languages: *HTML, CSS*  
-- Game development: *Unity*
-- Front end: *Three.js, Blazor, WPF*  
-- Back end: *EntityFramework, GraphQL, Dapper, ASP.NET Core, ASP.NET Core Identity*  
+- Programming languages: *C#, C++, Java, JavaScript, Python*   
+- Game development: *Unity crossplatform development*
+- Front end: *HTML, CSS, Three.js, Blazor, WPF and some experience in React, Angular*  
+- Back end: *EntityFramework, GraphQL, Dapper, ASP.NET Core, ASP.NET Core Identity, Redis, Docker*  
 - Databases: *Microsoft SQL server, SQLite, MongoDB, PostgreSQL, MySQL*  
-- Game graphics: *Adobe Illustartor, MagicalVoxel, Aseprite*  
-- Game sounds: *FL studio*  
+- Graphic design: *Adobe Illustartor, MagicalVoxel, Aseprite*  
+- Sound design: *FL studio*  
 - Version control: *GIT, GitHub, Fork*  
-  
-:warning:**Here you can know more about my Unity and other specicfic skills**:warning:  
-``link``  
 
 Languages: Ukrainian, English (graduated courses with B2 level)  
 
 ## Hobbies  
 
-🎵beatmaker, 🎨designer, 🏀basketballer, ⛰️hiker
+🎵musician (rap, beats), 🎨designer (game graphics, web design, illustrations, covers), 🏀basketballer, ⛰️hiker
 
 
 
