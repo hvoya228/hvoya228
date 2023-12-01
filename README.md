@@ -2,17 +2,16 @@
 
 👋 I’m A 3rd year student of Chernivtsi National University, in the field of computer science, namely Intelectual 
 data analisys and information systems. Qualified in **game development, web development, database designing, AI development, data analysis, graphic design, sound design and computer networks**. 
-Melancholic creative, interested in work like in hobby, capable of leading a project
+Melancholic creative, interested in work like in hobby, capable of leading different projects
 from start to release, as a fullstack.
   
-👀 ``I am looking for a junior position as a Unity developer``,  
-in company with creative ideas that will be implemented in projects by me!
+👀 ``I am looking for a junior position``,  
+in company with creative and unusual ideas that will be implemented in projects by me!
 
-❔ How I became interested in other programming fields?  
+❔ How I became really interested in programming?  
 So, my younger sisters was learning a multiplication table. It was so hard and not interesting for them. I decided to make a game with interactive and pretty UI, that will show a problem and possible answers. 
 As a result, they was playing it during all summer and learned a multuplicaton table!
-I`m learning game development yet and want to help other people to solve diferent problems with my games and apps.  
-Also, my programming interest in various fields starts from childhood.
+I`m learning different fields of programming from childhood and want to help other people to solve diferent problems with my apps.  
 
 ## Contact details  
 ```c#
@@ -29,6 +28,7 @@ Telegram: https://t.me/hvoya228
 ## Education  
 
 - Chernivtsi National University, Computer Science, bachelor degree (**01.09.2021 - today**)
+- HTML/CSS certificated courses (graduated on **11.06.2018**)
 - C++ certificated courses (graduated on **07.05.2022**)
 - C certificated courses (graduated on  **05.06.2022**)
 - C# and Unity certificated courses (graduated on **21.08.2022**)  
@@ -37,8 +37,8 @@ Telegram: https://t.me/hvoya228
 And many uncertificated courses...  
   
 ## Work experience  
-Worked as a freelance graphic designer at school.  
-I am currently working on my projects, you can get acquainted with them here:  
+Worked on a freelance as a graphic designer at school.  
+I am currently working on my own projects, you can get acquainted with them here:  
 :warning: https://github.com/hvoya228/github-projects-navigation/tree/main :warning:
   
 ## General overview of technologies experience
