@@ -41,16 +41,15 @@ Worked on a freelance as a graphic designer at school.
 I am currently working on my own projects, you can get acquainted with them here:  
 :warning: https://github.com/hvoya228/github-projects-navigation/tree/main :warning:
   
-## General overview of technologies experience
+## Overiew of technologies, that I am experienced in
 
-- Programming languages: *C#, C++, Java, JavaScript, Python*   
-- Game development: *Unity crossplatform development*
-- Front end: *HTML, CSS, Three.js, Blazor, WPF and some experience in React, Angular*  
-- Back end: *EntityFramework, GraphQL, Dapper, ASP.NET Core, ASP.NET Core Identity, Redis, Docker*  
-- Databases: *Microsoft SQL server, SQLite, MongoDB, PostgreSQL, MySQL*  
-- Graphic design: *Adobe Illustartor, MagicalVoxel, Aseprite*  
-- Sound design: *FL studio*  
-- Version control: *GIT, GitHub, Fork*  
+- Front end: ``HTML`` ``CSS`` ``JS`` ``Three.js`` ``Blazor`` ``WPF`` and some experience in ``React`` ``Angular``  
+- Back end: ``EntityFramework`` ``GraphQL`` ``Dapper`` ``ASP.NET Core`` ``ASP.NET Core Identity`` ``Spring``  
+- Databases: ``Microsoft SQL server`` ``SQLite`` ``MongoDB`` ``PostgreSQL`` ``MySQL``
+- Game development: ``Unity`` crossplatform development
+- Data analysis: ``Python`` ``Jupyter notebook``
+  
+- Other: *Git, Docker, Redis, SOLID, Code refactoring, Design Patterns, Github, Fork, Linux, Adobe Illustartor, MagicalVoxel, Aseprite, FL studio*
 
 Languages: Ukrainian, English (graduated courses with B2 level)  
 
