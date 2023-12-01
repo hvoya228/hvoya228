@@ -3,7 +3,7 @@
 👋 I’m A 3rd year student of Chernivtsi National University, in the field of computer science, namely Intelectual 
 data analisys and information systems. Qualified in **game development, web development, database designing, AI development, data analysis, graphic design, sound design and computer networks**. 
 I`m into work, melancholic creative, capable of leading different projects
-from start to release, as a fullstack.
+from idea to release, as a fullstack.
   
 👀 ``I am looking for a junior position``,  
 in company with creative and unusual ideas that I`ll implement!
