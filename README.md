@@ -2,15 +2,15 @@
 
 👋 I’m A 3rd year student of Chernivtsi National University, in the field of computer science, namely Intelectual 
 data analisys and information systems. Qualified in **game development, web development, database designing, AI development, data analysis, graphic design, sound design and computer networks**. 
-Melancholic creative, interested in work like in hobby, capable of leading different projects
+I`m into work, melancholic creative, capable of leading different projects
 from start to release, as a fullstack.
   
 👀 ``I am looking for a junior position``,  
-in company with creative and unusual ideas that will be implemented in projects by me!
+in company with creative and unusual ideas that I`ll implement!
 
 ❔ How I became really interested in programming?  
 So, my younger sisters was learning a multiplication table. It was so hard and not interesting for them. I decided to make a game with interactive and pretty UI, that will show a problem and possible answers. 
-As a result, they was playing it during all summer and learned a multuplicaton table!
+As a result, they was playing it during all summer and learned a multiplicaton table!
 I`m learning different fields of programming from childhood and want to help other people to solve diferent problems with my apps.  
 
 ## Contact details  
@@ -43,7 +43,7 @@ I am currently working on my own projects, you can get acquainted with them here
   
 ## Overiew of technologies, that I am experienced in
 
-- Front end: ``HTML`` ``CSS`` ``JS`` ``Three.js`` ``Blazor`` ``WPF`` and some experience in ``React`` ``Angular``  
+- Front end: ``HTML`` ``CSS`` ``JS`` ``Three.js`` ``Blazor`` ``WPF``, and some experience in ``React`` ``Angular``  
 - Back end: ``EntityFramework`` ``GraphQL`` ``Dapper`` ``ASP.NET Core`` ``ASP.NET Core Identity`` ``Spring``  
 - Databases: ``Microsoft SQL server`` ``SQLite`` ``MongoDB`` ``PostgreSQL`` ``MySQL``
 - Game development: ``Unity`` crossplatform development
