@@ -41,7 +41,7 @@ Worked on a freelance as a graphic designer at school.
 I am currently working on my own projects, you can get acquainted with them here:  
 :warning: https://github.com/hvoya228/github-projects-navigation/tree/main :warning:
   
-## Overiew of technologies, that I am experienced in
+## Overview of technologies, that I am experienced in
 
 - Front end: ``HTML`` ``CSS`` ``JS`` ``Three.js`` ``Blazor`` ``WPF``, and some experience in ``React`` ``Angular``  
 - Back end: ``EntityFramework`` ``GraphQL`` ``Dapper`` ``ASP.NET Core`` ``ASP.NET Core Identity`` ``Spring``  
