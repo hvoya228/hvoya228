@@ -46,7 +46,7 @@ I am currently working on my own projects, you can get acquainted with them here
 - Front end: ``HTML`` ``CSS`` ``JS`` ``Three.js`` ``Blazor`` ``WPF``, and some experience in ``React`` ``Angular``  
 - Back end: ``EntityFramework`` ``GraphQL`` ``Dapper`` ``ASP.NET Core`` ``ASP.NET Core Identity`` ``Spring``  
 - Databases: ``Microsoft SQL server`` ``SQLite`` ``MongoDB`` ``PostgreSQL`` ``MySQL``
-- Game development: ``Unity`` crossplatform development
+- Game development: ``Unity`` crossplatform development, and some ``JS`` browser games experience
 - Data analysis: ``Python`` ``Jupyter notebook``
   
 - Other: *Git, Docker, Redis, SOLID, Code refactoring, Design Patterns, Github, Fork, Linux, Adobe Illustartor, MagicalVoxel, Aseprite, FL studio*
