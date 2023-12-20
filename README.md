@@ -44,12 +44,12 @@ I am currently working on my own projects, you can get acquainted with them here
 ## Overview of technologies, that I am experienced in
 
 - Front end: ``HTML`` ``CSS`` ``JS`` ``Three.js`` ``Blazor`` ``WPF``, and some experience in ``React`` ``Angular``  
-- Back end: ``EntityFramework`` ``GraphQL`` ``Dapper`` ``ASP.NET Core`` ``ASP.NET Core Identity`` ``Spring``  
-- Databases: ``Microsoft SQL server`` ``SQLite`` ``MongoDB`` ``PostgreSQL`` ``MySQL``
+- Back end: ``EntityFramework`` ``GraphQL`` ``Dapper`` ``ASP.NET Core`` ``ASP.NET Core Identity`` ``JWT`` ``Spring`` ``Redis`` ``Ocelot`` ``Serilog`` 
+- Databases: ``SQLite`` ``MongoDB`` ``PostgreSQL`` ``MySQL`` ``Microsoft SQL server``
 - Game development: ``Unity`` crossplatform development, and some ``JS`` browser games experience
 - Data analysis: ``Python`` ``Jupyter notebook``
   
-- Other: *Git, Docker, Redis, SOLID, Code refactoring, Design Patterns, Github, Fork, Linux, Adobe Illustartor, MagicalVoxel, Aseprite, FL studio*
+- Other: *Git, SOLID, Code refactoring, Design Patterns, Docker, Github, Fork, Linux, Adobe Illustartor, MagicalVoxel, Aseprite, FL studio*
 
 Languages: Ukrainian, English (graduated courses with B2 level)  
 
