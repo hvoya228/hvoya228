@@ -15,11 +15,15 @@ I`m learning different fields of programming from childhood and want to help oth
 
 ## Contact details  
 ```c#
-public Player()
+private Coder CreateCoder()
 {
-  Name = "Oleh Bohutskyi"  
-  Address = "Ukraine, Chernivtsi"  
-  DateOfBirth = "05.01.2004"
+  return new Coder()
+  {
+    Name = "Oleh Bohutskyi",  
+    Address = "Ukraine, Chernivtsi",  
+    DateOfBirth = "05.01.2004",
+    IsWantToWork = true
+  }
 }
 ```
 Email: bogucukij@gmail.com  
