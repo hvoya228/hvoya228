@@ -43,19 +43,20 @@ I am currently working on my own projects, you can get acquainted with them here
   
 ## Overview of technologies, that I am experienced in
 
-- Front end: ``HTML`` ``CSS`` ``JS`` ``Three.js`` ``Blazor`` ``WPF``, and some experience in ``React`` ``Angular``  
+- Front end: ``React`` ``HTML`` ``CSS`` ``JS`` ``Three.js`` ``Blazor`` ``WPF``, and some experience in ``Angular``  
 - Back end: ``EntityFramework`` ``GraphQL`` ``Dapper`` ``ASP.NET Core`` ``ASP.NET Core Identity`` ``JWT`` ``Spring`` ``Redis`` ``Ocelot`` ``Serilog`` 
 - Databases: ``SQLite`` ``MongoDB`` ``PostgreSQL`` ``MySQL`` ``Microsoft SQL server``
 - Game development: ``Unity`` crossplatform development, and some ``JS`` browser games experience
 - Data analysis: ``Python`` ``Jupyter notebook``
-  
-- Other: *Git, SOLID, Code refactoring, Design Patterns, Docker, Github, Fork, Linux, Adobe Illustartor, MagicalVoxel, Aseprite, FL studio*
+    
+- Git: committing, branching, merging, forking, pulling
+- Other: *SOLID, Code refactoring, Design Patterns, Docker, Linux, Adobe Illustartor, MagicalVoxel, Aseprite, FL studio*
 
 Languages: Ukrainian, English (graduated courses with B2 level)  
 
 ## Hobbies  
 
-🎵musician (rap, beats), 🎨designer (game graphics, web design, illustrations, covers), 🏀basketballer, ⛰️hiker
+🎵musician (rap, beats), 🎨designer (game graphics, web design, illustrations, covers), 🏀basketballer, 🏋🏻‍♀️gym, ⛰️hiker
 
 
 
