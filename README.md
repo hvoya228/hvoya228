@@ -52,9 +52,8 @@ I am currently working on my own projects, you can get acquainted with them here
 - Databases: ``SQLite`` ``MongoDB`` ``PostgreSQL`` ``MySQL`` ``Microsoft SQL server``
 - Game development: ``Unity`` crossplatform development, and some ``JS`` browser games experience
 - Data analysis: ``Python`` ``Jupyter notebook``
-    
-- Git: committing, branching, merging, forking, pulling
-- Other: *SOLID, Code refactoring, Design Patterns, Docker, Linux, Adobe Illustartor, MagicalVoxel, Aseprite, FL studio*
+-
+- Other: *Git, SOLID, Code refactoring, Design Patterns, Docker, Linux, Adobe Illustartor, MagicalVoxel, Aseprite, FL studio*
 
 Languages: Ukrainian, English (graduated courses with B2 level)  
 
