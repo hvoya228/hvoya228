@@ -47,23 +47,23 @@ I am currently working on my own and team projects, you can get acquainted with 
 ## Overview of technologies, that I am experienced in
 
 - Front end: ``React`` ``HTML`` ``CSS`` ``JS`` ``Three.js`` ``Blazor`` ``WPF``, and some experience in ``Angular``  
-- Back end: ``EntityFramework`` ``GraphQL`` ``Dapper`` ``ASP.NET Core`` ``ASP.NET Core Identity`` ``JWT`` ``Spring`` ``Redis`` ``Ocelot`` ``Serilog`` 
+- Back end: ``EntityFramework`` ``GraphQL`` ``Dapper`` ``ASP.NET Core`` ``ASP.NET Core Identity`` ``JWT`` ``Redis`` ``Ocelot`` ``Serilog``
 - Databases: ``SQLite`` ``MongoDB`` ``PostgreSQL`` ``MySQL`` ``Microsoft SQL server``
 - Data analysis: ``Python`` ``Jupyter notebook``
-- 
-- Game development: ``Unity 2d/3d crossplatform development``, and some ``JS`` browser games experience
-- Unity skills: ``Networking`` ``AI`` ``Physics`` ``Events`` ``Prefabs`` ``Animations`` ``Audio`` ``UI`` ``Editor``
+#
+- Game development engine: ``Unity 2d/3d pc/android``
+- Unity: ``Networking`` ``AI`` ``Physics`` ``Events`` ``Prefabs`` ``Animations`` ``Audio`` ``UI`` ``Editor``
 - Unity patterns: ``ObjectPool`` ``Singleton``
 - Additional: ``DOTween``
-- Game designer skills: ``Level design`` ``Gameplay design`` ``Game mechanics design`` ``Game tutorial design`` ``UI design``
--
+- Game design skills: ``Level design`` ``Gameplay design`` ``Game mechanics design`` ``Game tutorial design`` ``UI design``
+#
 - Other: *Git, SOLID, Code refactoring, Design Patterns, Docker, Linux, Adobe Illustartor, MagicalVoxel, Aseprite, FL studio*
 
 Languages: Ukrainian, English (graduated courses with B2 level)  
 
 ## Hobbies  
 
-🎵musician (rap, beats), 🎨designer (game graphics, web design, illustrations, covers), 🏀basketballer, 🏋🏻‍♀️gym, ⛰️hiker
+🎵music, 🎨design, 🏀basketball, 🏓tennis, 🏋🏻‍♀️gym, ⛰️hiking
 
 
 
