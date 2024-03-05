@@ -34,7 +34,6 @@ Telegram: https://t.me/hvoya228
 - Chernivtsi National University, Computer Science, bachelor degree (**01.09.2021 - today**)
 - HTML/CSS certificated courses (graduated on **11.06.2018**)
 - C++ certificated courses (graduated on **07.05.2022**)
-- C certificated courses (graduated on  **05.06.2022**)
 - C# and Unity certificated courses (graduated on **21.08.2022**)  
 - Computer networks certificated courses (graduated on **05.06.2023**)
    
@@ -42,7 +41,7 @@ And many uncertificated courses...
   
 ## Work experience  
 Worked on a freelance as a graphic designer at school.  
-I am currently working on my own projects, you can get acquainted with them here:  
+I am currently working on my own and team projects, you can get acquainted with them here:  
 :warning: https://github.com/hvoya228/github-projects-navigation/tree/main :warning:
   
 ## Overview of technologies, that I am experienced in
@@ -50,8 +49,12 @@ I am currently working on my own projects, you can get acquainted with them here
 - Front end: ``React`` ``HTML`` ``CSS`` ``JS`` ``Three.js`` ``Blazor`` ``WPF``, and some experience in ``Angular``  
 - Back end: ``EntityFramework`` ``GraphQL`` ``Dapper`` ``ASP.NET Core`` ``ASP.NET Core Identity`` ``JWT`` ``Spring`` ``Redis`` ``Ocelot`` ``Serilog`` 
 - Databases: ``SQLite`` ``MongoDB`` ``PostgreSQL`` ``MySQL`` ``Microsoft SQL server``
-- Game development: ``Unity`` crossplatform development, and some ``JS`` browser games experience
 - Data analysis: ``Python`` ``Jupyter notebook``
+- 
+- Game development: ``Unity 2d/3d crossplatform development``, and some ``JS`` browser games experience
+- Unity skills: ``DOTween`` ``Networking`` ``AI`` ``Physics`` ``Animations`` ``Audio`` ``UI`` ``Editor``
+- Unity patterns: ``ObjectPool`` ``Singleton``
+- Game designer skills: ``Level design`` ``Gameplay design`` ``Game mechanics design`` ``Game tutorial design`` ``UI design``
 -
 - Other: *Git, SOLID, Code refactoring, Design Patterns, Docker, Linux, Adobe Illustartor, MagicalVoxel, Aseprite, FL studio*
 
