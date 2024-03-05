@@ -52,8 +52,9 @@ I am currently working on my own and team projects, you can get acquainted with 
 - Data analysis: ``Python`` ``Jupyter notebook``
 - 
 - Game development: ``Unity 2d/3d crossplatform development``, and some ``JS`` browser games experience
-- Unity skills: ``DOTween`` ``Networking`` ``AI`` ``Physics`` ``Animations`` ``Audio`` ``UI`` ``Editor``
+- Unity skills: ``Networking`` ``AI`` ``Physics`` ``Events`` ``Prefabs`` ``Animations`` ``Audio`` ``UI`` ``Editor``
 - Unity patterns: ``ObjectPool`` ``Singleton``
+- Additional: ``DOTween``
 - Game designer skills: ``Level design`` ``Gameplay design`` ``Game mechanics design`` ``Game tutorial design`` ``UI design``
 -
 - Other: *Git, SOLID, Code refactoring, Design Patterns, Docker, Linux, Adobe Illustartor, MagicalVoxel, Aseprite, FL studio*
