@@ -1,11 +1,11 @@
 ## Cover letter
 
 👋 I’m A 3rd year student of Chernivtsi National University, in the field of computer science, namely Intelectual 
-data analisys and information systems. Qualified in **game development, web development, database designing, AI development, data analysis, graphic design, sound design and computer networks**. 
+data analisys and information systems. Qualified in **game development, web development, database designing, graphic design, sound design. Had a deal with AI development, data analysis and computer networks.** 
 I`m into work, melancholic creative, capable of leading different projects
 from idea to release, as a fullstack.
   
-👀 ``I am looking for a junior position``,  
+👀 ``I am looking for a Unity developer position``,  
 in company with creative and unusual ideas that I`ll implement!
 
 ❔ How I became really interested in programming?  
@@ -40,14 +40,15 @@ Telegram: https://t.me/hvoya228
 And many uncertificated courses...  
   
 ## Work experience  
-Worked on a freelance as a graphic designer at school.  
+Worked as a freelance graphic designer during school days.  
+  
 I am currently working on my own and team projects, you can get acquainted with them here:  
 :warning: https://github.com/hvoya228/github-projects-navigation/tree/main :warning:
   
 ## Overview of technologies, that I am experienced in
 
 - Front end: ``React`` ``HTML`` ``CSS`` ``JS`` ``Three.js`` ``Blazor`` ``WPF``, and some experience in ``Angular``  
-- Back end: ``EntityFramework`` ``GraphQL`` ``Dapper`` ``ASP.NET Core`` ``ASP.NET Core Identity`` ``JWT`` ``Redis`` ``Ocelot`` ``Serilog``
+- Back end: ``EntityFramework`` ``GraphQL`` ``Dapper`` ``ASP.NET Core`` ``ASP.NET Core Identity`` ``JWT`` ``Redis`` ``Ocelot`` ``Serilog`` ``SQL`` ``LINQ`` ``Swagger``
 - Databases: ``SQLite`` ``MongoDB`` ``PostgreSQL`` ``MySQL`` ``Microsoft SQL server``
 - Data analysis: ``Python`` ``Jupyter notebook``
 #
@@ -57,7 +58,7 @@ I am currently working on my own and team projects, you can get acquainted with 
 - Additional: ``DOTween``
 - Game design skills: ``Level design`` ``Gameplay design`` ``Game mechanics design`` ``Game tutorial design`` ``UI design``
 #
-- Other: *Git, SOLID, Code refactoring, Design Patterns, Docker, Linux, Adobe Illustartor, MagicalVoxel, Aseprite, FL studio*
+- Other: *Git, SOLID, Code refactoring, Design Patterns, UML, Telegram bots, Docker, Linux, Adobe Illustartor, MagicalVoxel, Aseprite, FL studio*
 
 Languages: Ukrainian, English (graduated courses with B2 level)  
 
